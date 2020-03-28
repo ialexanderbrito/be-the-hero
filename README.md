@@ -62,7 +62,7 @@ A semana foi ministrada pelo [Diego Fernandes](https://github.com/diego3g)
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-## 📱 Social
+### 📱 Social
 
 Me acompanhe nas minhas redes sociais.
 
