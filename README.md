@@ -79,27 +79,22 @@ Me acompanhe nas minhas redes sociais.
 <p align="center">
 
    <a href="https://github.com/ialexanderbrito" target="_blank" >
-    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
-  </a>
+    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a> 
   
   <a href="https://instagram.com/ialexanderbrito" target="_blank" >
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram--%23F8952D?style=social&logo=instagram">
-  </a>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram--%23F8952D?style=social&logo=instagram"></a> 
   
   <a href="https://facebook.com/ialexanderbrito" target="_blank" >
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook--%23F8952D?style=social&logo=facebook">
-  </a>
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook--%23F8952D?style=social&logo=facebook"></a> 
 
   <a href="https://www.linkedin.com/in/ialexanderbrito/" target="_blank" >
-    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
-  </a>
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin"></a> 
   
   <a href="mailto:ialexanderbrito@gmail.com" target="_blank" >
-    <img alt="Email" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
-  </a>
+    <img alt="Email" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail"></a> 
   
   <a href="https://api.whatsapp.com/send?phone=5521979434402" target="_blank" >
-    <img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp"></a>
 </p>
 
 ---
