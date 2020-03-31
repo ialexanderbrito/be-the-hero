@@ -98,8 +98,7 @@ Me acompanhe nas minhas redes sociais.
     <img alt="Email" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
   </a>
   
-  <a href="https://api.whatsapp.com/send?phone=5521979434402"
-        target="_blank" >
+  <a href="https://api.whatsapp.com/send?phone=5521979434402" target="_blank" >
     <img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp">
 </p>
 
