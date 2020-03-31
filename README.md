@@ -7,12 +7,14 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ialexanderbrito/be-the-hero.svg">
   
-  <a href="https://github.com/ialexanderbrito/jokenpo/commits/master">
+  <a href="https://github.com/ialexanderbrito/be-the-hero/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ialexanderbrito/be-the-hero.svg"></a>
 
-  <a href="https://github.com/ialexanderbrito/jokenpo/issues">
+  <a href="https://github.com/ialexanderbrito/be-the-hero/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/ialexanderbrito/be-the-hero.svg"></a>
-  
+    
+   <img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/ialexanderbrito/be-the-hero?label=blue">
+ 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red"></a>
     <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
@@ -37,6 +39,14 @@ Extras:
   - [EditorConfig](https://editorconfig.org/)
   - [ESLint](https://eslint.org/)
   - [Prettier](https://prettier.io/)
+  
+### 💻 Demo Web
+
+[https://be-the-hero-oficial.netlify.com/](https://be-the-hero-oficial.netlify.com/)
+
+### 📱 App
+
+[Download para Android](https://github.com/ialexanderbrito/be-the-hero/releases/tag/1.0.0)
 
 ### 💻 Projeto
 
@@ -67,11 +77,30 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 Me acompanhe nas minhas redes sociais.
 
 <p align="center">
-<a href="https://instagram.com/ialexanderbrito"><img border="0" alt="instagram" src="https://user-images.githubusercontent.com/36086408/77363673-e883d380-6d31-11ea-806e-8f58c256a758.png" width="24" height="24"></a>
-<a href="https://twitter.com/ialexanderbrito"><img border="0" alt="twitter" src="https://user-images.githubusercontent.com/36086408/77363765-0ea97380-6d32-11ea-9239-df694181843c.png" width="24" height="24"></a>
-<a href="https://facebook.com/ialexanderbrito"><img border="0" alt="facebook" src="https://user-images.githubusercontent.com/36086408/77364314-ff76f580-6d32-11ea-8a10-438e9e86fcc3.png" width="24" height="24"></a>
-<a href="https://github.com/ialexanderbrito"><img border="0" alt="github" src="https://user-images.githubusercontent.com/36086408/77363950-5fb96780-6d32-11ea-9a03-e0f060ff1fb9.png" width="24" height="24"></a>
-<a href="https://www.linkedin.com/in/ialexanderbrito/"><img border="0" alt="linkedin" src="https://user-images.githubusercontent.com/36086408/77364007-7c559f80-6d32-11ea-81d5-532c1218738f.png" width="24" height="24"></a>
+
+   <a href="https://github.com/ialexanderbrito" target="_blank" >
+    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
+  </a>
+  
+  <a href="https://instagram.com/ialexanderbrito" target="_blank" >
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram--%23F8952D?style=social&logo=instagram">
+  </a>
+  
+  <a href="https://facebook.com/ialexanderbrito" target="_blank" >
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook--%23F8952D?style=social&logo=facebook">
+  </a>
+
+  <a href="https://www.linkedin.com/in/ialexanderbrito/" target="_blank" >
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
+  </a>
+  
+  <a href="mailto:ialexanderbrito@gmail.com" target="_blank" >
+    <img alt="Email" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+  </a>
+  
+  <a href="https://api.whatsapp.com/send?phone=5521979434402"
+        target="_blank" >
+    <img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp">
 </p>
 
 ---
