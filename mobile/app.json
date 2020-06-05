@@ -3,13 +3,9 @@
     "name": "Be The Hero",
     "slug": "bethehero",
     "privacy": "public",
-    "sdkVersion": "36.0.0",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
-    "version": "1.0.0",
+    "sdkVersion": "37.0.0",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.2",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -20,11 +16,14 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.ialexanderbrito.bethehero",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.ialexanderbrito.bethehero",
+      "versionCode": 1
     }
   }
 }
