@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://be-the-hero-oficial.herokuapp.com'
+    baseURL: 'https://bethehero-api.ialexanderbrito.dev'
 })
 
 export default api;
